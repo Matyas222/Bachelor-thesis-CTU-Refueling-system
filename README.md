@@ -9,3 +9,5 @@ To perform SIL, the following steps must be taken:
 7) Turn the knob setting the OMA modes (OFF, MAN, AUTO) to MAN, and wait 5 seconds.
 8) Turn the knob setting the OMA modes to AUTO.
 9) If the Pressure section fill control light starts blinking -> SIL is running.
+
+The Refueling.py file was used during the second COLD-FLOW attempt, it is not appropriately set to perform SIL.
